@@ -1,0 +1,6 @@
+run #1
+random first: defaultdict(<class 'int'>, {'X': 0, 'O': 85, 'Tie': 15})
+minimax first: defaultdict(<class 'int'>, {'X': 100, 'O': 0, 'Tie': 0})
+run #2
+random first: defaultdict(<class 'int'>, {'X': 0, 'O': 74, 'Tie': 26})
+minimax first: defaultdict(<class 'int'>, {'X': 98, 'O': 0, 'Tie': 2})
