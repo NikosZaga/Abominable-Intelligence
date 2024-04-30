@@ -1,0 +1,39 @@
+run #1
+random first:  {'X': 0, 'O': 85, 'Tie': 15}
+minimax first:  {'X': 100, 'O': 0, 'Tie': 0}
+run #2
+random first:  {'X': 0, 'O': 74, 'Tie': 26}
+minimax first:  {'X': 98, 'O': 0, 'Tie': 2}
+run #3
+random first:  {'X': 0, 'O': 77, 'Tie': 23}
+minimax first:  {'X': 99, 'O': 0, 'Tie': 1}
+run #4
+random first:  {'X': 0, 'O': 81, 'Tie': 19}
+minimax first:  {'X': 100, 'O': 0, 'Tie': 0}
+run #5
+random first:  {'X': 0, 'O': 83, 'Tie': 17}
+minimax first:  {'X': 99, 'O': 0, 'Tie': 1}
+run #6
+random first:  {'X': 0, 'O': 83, 'Tie': 17}
+minimax first:  {'X': 100, 'O': 0, 'Tie': 0}
+run #7
+random first:  {'X': 0, 'O': 80, 'Tie': 20}
+minimax first:  {'X': 99, 'O': 0, 'Tie': 1}
+run #8
+random first:  {'X': 0, 'O': 87, 'Tie': 13}
+minimax first:  {'X': 99, 'O': 0, 'Tie': 1}
+run #9
+random first:  {'X': 0, 'O': 85, 'Tie': 15}
+minimax first:  {'X': 100, 'O': 0, 'Tie': 0}
+run #10
+random first:  {'X': 0, 'O': 72, 'Tie': 28}
+minimax first:  {'X': 99, 'O': 0, 'Tie': 1}
+run #11
+random first:  {'X': 0, 'O': 79, 'Tie': 21}
+minimax first:  {'X': 100, 'O': 0, 'Tie': 0}
+run #12
+random first: {'X': 0, 'O': 82, 'Tie': 18}
+minimax first: {'X': 100, 'O': 0, 'Tie': 0}
+run #13
+random first: {'X': 0, 'O': 82, 'Tie': 18}
+minimax first: {'X': 98, 'O': 0, 'Tie': 2}
